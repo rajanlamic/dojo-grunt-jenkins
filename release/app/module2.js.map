@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"module2.js",
+"lineCount":2,
+"mappings":"A;AAAAA,MAAA,6BAAqC,QAAA,CAASC,CAAT,aAE9BA,CAAAC,IAF8B,mBAArC;",
+"sources":["module2.js.uncompressed.js"],
+"names":["define","module1","get"]
+}

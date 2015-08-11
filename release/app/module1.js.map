@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"module1.js",
+"lineCount":2,
+"mappings":"A;AAAAA,MAAA,kBAA0B,QAAA,yBAA1B;",
+"sources":["module1.js.uncompressed.js"],
+"names":["define"]
+}

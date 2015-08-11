@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"Dialog.js",
+"lineCount":2,
+"mappings":"A;AAIAA,MAAA,gEAA4E,QAAA,CAAUC,CAAV,CAAmBC,CAAnB,CAA2BC,CAA3B,QACpEF,EAAA,CAAQC,CAAR,uBACkBC,CAAAC,IADlB,iCADoE,CAA5E;",
+"sources":["Dialog.js.uncompressed.js"],
+"names":["define","declare","Dialog","module2","get"]
+}
